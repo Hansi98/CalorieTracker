@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calorie Tracker</string>
+    <string name="simple_spinner_item">Choose a gender</string>
+
+<string-array name="gender">
+<item>Male</item>
+<item>Female</item>
+</string-array>
+</resources>
